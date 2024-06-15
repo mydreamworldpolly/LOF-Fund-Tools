@@ -12,10 +12,13 @@ numpy
 
 作为一个极其简易的工具，每次刷新时会获取数据，网页显示较慢，敬请谅解。希望它可以帮助更多的小散户获得LOF套利的机会吗，不用花钱买铲子。
 
-Free LOF fund arbitrage tool,  using AKShare as the data source.To use this, you need to have a Python environment set up. Please install the following libraries:
+Free LOF fund arbitrage tool,  using AKShare as the data source.
+To use this, you need to have a Python environment set up. Please install the following libraries:
 akshare
 flask
 pandas
 numpy
-To view the fund data, you can access http://127.0.0.1:5000 in your web browser.The system's default filter conditions are: daily trading volume greater than 500,000 yuan, and a premium rate greater than 0.3% or a discount rate greater than 0.7% for the funds. If you have special requirements, you can modify the filter_funds function.The system by default sorts the funds by the absolute value of the premium rate in descending order. The information is displayed as shown in the image.
+To view the fund data, you can access http://127.0.0.1:5000 in your web browser.
+The system's default filter conditions are: daily trading volume greater than 500,000 yuan, and a premium rate greater than 0.3% or a discount rate greater than 0.7% for the funds. If you have special requirements, you can modify the filter_funds function.
+The system by default sorts the funds by the absolute value of the premium rate in descending order. The information is displayed as shown in the image.
 As an extremely simple tool, it will fetch data each time it refreshes, so the webpage may load slowly. Please understand. Hopefully, it can help more retail investors get opportunities for LOF arbitrage without having to pay for shovels (tools).
