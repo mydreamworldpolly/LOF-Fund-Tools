@@ -15,3 +15,6 @@ The system's default filter conditions are: daily trading volume greater than 50
 系统默认以溢价率的绝对值排序，从上到下显示信息如图。
 The system by default sorts the funds by the absolute value of the premium rate in descending order. The information is displayed from top to bottom as shown in the image.
 <img width="1040" alt="image" src="https://github.com/mydreamworldpolly/LOF-Fund-Tools/assets/35619739/ec59d225-cfe4-4315-b085-2763a5a18159">
+
+作为一个极其简易的工具，每次刷新时会获取数据，网页显示较慢，敬请谅解。希望它可以帮助更多的小散户获得LOF套利的机会吗，不用花钱买铲子。
+As an extremely simple tool, it will fetch data each time it refreshes, so the webpage may load slowly. Please understand. Hopefully, it can help more retail investors get opportunities for LOF arbitrage without having to pay for shovels (tools).
